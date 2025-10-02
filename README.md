@@ -11,7 +11,7 @@ Here, you'll find:
 🌱 Reflections and advice for navigating a career in tech
 
 ### 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/mssingh080?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIqzP766RRG62KWEMrP4dzg%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
 ---
 
